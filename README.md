@@ -3,6 +3,7 @@
 ## はじめに．
 
 ライフゲームとは，生命の誕生や衰退をシミュレーションする計算のことです．
+![demo](https://raw.github.com/wiki/KazuhisaMiyazawa/LifeGame/images/movie.gif)
 
 私は，C言語でライフゲームのシミュレーションを行い，出力したデータをgnuplotにより可視化しました．
 
